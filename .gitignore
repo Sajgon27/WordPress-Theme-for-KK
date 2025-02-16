@@ -1,0 +1,8 @@
+# Node modules (from npm)
+node_modules/
+
+# Gulp generated files or cache
+gulpfile.js.map
+
+# Ignore lock files if needed
+package-lock.json
