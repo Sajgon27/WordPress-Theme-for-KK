@@ -11,9 +11,7 @@ This theme is designed with a focus on performance, responsiveness, and modern w
 - **SEO Optimized:**  
 - **Gulp**
 
-The project is currently hosted on ksawery.smdweb.pl, it is waiting for uploading content from the administrator,
-after that it will be transfered to ksaweryknotz.pl.
-
+The project is currently hosted on ksaweryknotz.pl.
 
 
 Design is based on Figma project delivered by Web Designer.
